@@ -13,6 +13,6 @@ Suggestions for further work (possibly outside the scope of this course):
 
 ## Part 2
 
-- [Implementation](<link to github>)
-- [Final paper](gavenski-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
+- [Implementation](https://github.com/NathanGavenski/BCIO-Torch-Implementation)
+- [Final paper](https://easychair.org/conferences/?conf=ap2019) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](gavenski-final-presentation-slides.pdf)
